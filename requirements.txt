@@ -1,0 +1,7 @@
+streamlit==1.26.0
+openai==0.28.0
+requests==2.31.0
+biopython==1.81
+arxiv==2.1.0
+beautifulsoup4==4.12.2 #how effective is beautiful soup though? especially compared to serper?
+python-dotenv==1.0.0

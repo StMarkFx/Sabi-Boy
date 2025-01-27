@@ -112,16 +112,16 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 
-OpenAI: For the GPT model powering the AI responses.
-Semantic Scholar: For providing access to research papers.
-PubMed: For biomedical research references.
-Google Scholar: For broad academic research.
-arXiv: For cutting-edge preprints.
+ - **OpenAI:** For the GPT model powering the AI responses.
+ - **Semantic Scholar:** For providing access to research papers.
+ - **PubMed:** For biomedical research references.
+ - **Google Scholar:** For broad academic research.
+ - **arXiv:** For cutting-edge preprints.
 
 ## Contact
 
 For questions or feedback, please contact:
 
-Your Name: stmarkadebayo@gmail.com
-LinkedIn: St. Mark Adebayo[https://www.linkedin.com/in/stmarkadebayo]
-GitHub: github.com/StMarkFx
+ - **Your Name:** stmarkadebayo@gmail.com
+ - **LinkedIn:** St. Mark Adebayo[https://www.linkedin.com/in/stmarkadebayo]
+ - **GitHub:** github.com/StMarkFx
